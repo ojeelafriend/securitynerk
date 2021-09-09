@@ -1,0 +1,28 @@
+{
+  "name": "securitynerk",
+  "version": "1.0.0",
+  "description": "Authentication and authorization practices with jwt & auth02",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojeelafriend/securitynerk.git"
+  },
+  "keywords": [
+    "auth0",
+    "nodejs",
+    "express",
+    "apirest"
+  ],
+  "author": "ojeelafriend",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojeelafriend/securitynerk/issues"
+  },
+  "homepage": "https://github.com/ojeelafriend/securitynerk#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
